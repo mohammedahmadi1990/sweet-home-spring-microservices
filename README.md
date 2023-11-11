@@ -1,6 +1,10 @@
 # sweet-home-spring-microservices
 
-Created a Spring-based API for hotel booking with a RESTful web service that allows clients to interact with a hotel booking system. The API will manage hotel inventory, process bookings, and handle customer information. I did this as a sample assignment while working as a java assignment help expert at https://www.programminghomeworkhelp.com/java-assignment/.
+Created a Spring-based API for hotel booking with a RESTful web service that allows clients to interact with a hotel booking system. The API will manage hotel inventory, process bookings, and handle customer information. 
+
+I did this as a sample assignment while working as a java assignment help expert at https://www.programminghomeworkhelp.com/java-assignment/.
+ 
+ 
  Key features include:
 Hotel Inventory Management: Enabling hotels to list their rooms, amenities, and pricing.
 Booking System: Allowing customers to search for available rooms, make reservations, and manage their bookings.
